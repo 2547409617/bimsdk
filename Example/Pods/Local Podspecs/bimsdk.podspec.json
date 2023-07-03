@@ -1,0 +1,22 @@
+{
+  "name": "bimsdk",
+  "version": "0.1.0",
+  "summary": "A short description of bimsdk.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/2547409617/bimsdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "2547409617": "2547409617@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/2547409617/bimsdk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "bimsdk/Classes/**/*"
+}
