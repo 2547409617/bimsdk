@@ -1,0 +1,7 @@
+use_frameworks!
+target 'bimsdk_Tests' do
+  pod 'bimsdk', :path => '../'
+  
+  pod 'Specta'
+    pod 'Expecta'
+end
